@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "The Defective Detective"
+title = ""
 
 [params]
   displayName = "EN"
@@ -70,5 +70,9 @@ title = "The Defective Detective"
     { youtube = "https://youtube.com/@thedefectivedetective" },
     # { ko-fi = "https://ko-fi.com/username" },
     # { codeberg = "https://codeberg.org/username"},
-    { chess = "https://lichess.org/RishiMath"}
+    { leetcode = "https://leetcode.com/u/rishimath/"},
+    { lichess = "https://lichess.org/RishiMath"},
+    { codeforces = "https://codeforces.com/profile/RishiMath" },
+    { "chess.com" = "https://chess.com/member/rishimath" },
+    { codewars = "https://www.codewars.com/users/SpiderMath" }
   ]
