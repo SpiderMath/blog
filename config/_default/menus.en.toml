@@ -16,8 +16,8 @@
  weight = 10
 
 [[main]]
- name = "Notes"
- pageRef = "notes"
+ name = "About"
+ pageRef = "about"
  weight = 10
 
 # [[main]]
