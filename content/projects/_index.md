@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: "Projects"
 weight: 1
 draft: false
-description: "My first blog post using Blowfish"
+description: "List of my projects"
 tags: ["personal"]
 showAuthor: false
 showDate: false
