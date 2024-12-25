@@ -28,11 +28,12 @@ enableEmoji = true
 [[cascade]]
 title = 'Tags'
 [cascade._target]
-path = '{/blog_tags,/project_tags}'
+path = '{/blog_tags,/project_tags,/notes_tags}'
 
 [taxonomies]
   blog_tag = "blog_tags"
   project_tag = "project_tags"
+  notes_tag = "notes_tags"
   category = "categories"
   author = "authors"
   series = "series"
@@ -40,10 +41,12 @@ path = '{/blog_tags,/project_tags}'
 [permalinks.term]
   project_tags = "/projects/tags/:slug"
   blog_tags = "/blog/tags/:slug"
+  notes_tags = "/notes/tags/:slug"
 
 [permalinks.taxonomy]
   project_tags = "/projects/tags/"
   blog_tags = "/blog/tags/"
+  notes_tags = "/notes/tags/"
 
 [sitemap]
   changefreq = 'daily'

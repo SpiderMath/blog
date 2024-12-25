@@ -9,7 +9,7 @@ date: 2024-12-18
 ---
 
 {{< lead >}}
-Who are we?
+Who are we even?
 {{< /lead >}}
 
 Hello there! This is my first blog post, as is evidenced by the title.  

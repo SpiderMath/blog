@@ -3,6 +3,8 @@
     {{ $taxonomy = "blog_tags" }}
 {{ else if eq .Section "projects" }}
     {{ $taxonomy = "project_tags" }}
+{{ else if eq .Section "notes" }}
+    {{ $taxonomy = "notes_tags" }}
 {{ end }}
 
 {{ with .GetTerms $taxonomy }}
