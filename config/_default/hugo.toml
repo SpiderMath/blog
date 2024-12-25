@@ -25,11 +25,25 @@ enableEmoji = true
 [imaging]
   anchor = 'Center'
 
+[[cascade]]
+title = 'Tags'
+[cascade._target]
+path = '{/blog_tags,/project_tags}'
+
 [taxonomies]
-  tag = "tags"
+  blog_tag = "blog_tags"
+  project_tag = "project_tags"
   category = "categories"
   author = "authors"
   series = "series"
+
+[permalinks.term]
+  project_tags = "/projects/tags/:slug"
+  blog_tags = "/blog/tags/:slug"
+
+[permalinks.taxonomy]
+  project_tags = "/projects/tags/"
+  blog_tags = "/blog/tags/"
 
 [sitemap]
   changefreq = 'daily'
