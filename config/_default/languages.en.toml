@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "TheDefectiveAgency"
 
 [params]
   displayName = "EN"
@@ -11,19 +11,19 @@ title = ""
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Ya'll don't gotta know"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "The Defective Detective"
+  name = "Shankha Suvra Dam"
   # email = "youremail@example.com"
   image = "img/author.jpg"
   imageQuality = 96
-  headline = "Just a chill guy"
-  bio = "I am a below-average undergraduate student at Indian Statistical Institute, Bangalore Centre"
+  headline = "Exploring something new as usual :)"
+  bio = "Upto something random yet again"
   links = [
     # { email = "mailto:hello@your_domain.com" },
-    { link = "https://spidermath.github.io/" },
+    # { link = "https://spidermath.github.io/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { blogger = "https://username.blogspot.com/" },
@@ -39,7 +39,7 @@ title = ""
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
     # { hashnode = "https://username.hashnode.dev" },
-    { instagram = "https://www.instagram.com/the_defective.detective/" },
+    { instagram = "https://www.instagram.com/shankhathefirst/" },
     # { itch-io = "https://username.itch.io" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
@@ -70,9 +70,4 @@ title = ""
     { youtube = "https://youtube.com/@thedefectivedetective" },
     # { ko-fi = "https://ko-fi.com/username" },
     # { codeberg = "https://codeberg.org/username"},
-    { leetcode = "https://leetcode.com/u/rishimath/"},
-    { lichess = "https://lichess.org/RishiMath"},
-    { codeforces = "https://codeforces.com/profile/RishiMath" },
-    { "chess.com" = "https://chess.com/member/rishimath" },
-    { codewars = "https://www.codewars.com/users/SpiderMath" }
   ]
