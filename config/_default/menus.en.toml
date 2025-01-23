@@ -11,33 +11,33 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Home"
+ name = "home."
  pageRef = "/"
  weight = 1
 
 [[main]]
- name = "Blog"
+ name = "blog."
  pageRef = "blog"
  weight = 10
 
 [[main]]
- name = "About Me"
+ name = "about me."
  pageRef = "about"
  weight = 10
 
 [[main]]
- name = "More"
+ name = "more."
  weight = 1000
 
 [[main]]
- name = "Certyard"
- parent = "More"
+ name = "certyard."
+ parent = "more."
  pageRef = "certyard"
  weight = 1
 
 [[main]]
- name = "Projects"
- parent = "More"
+ name = "projects."
+ parent = "more."
  pageRef = "projects"
  weight = 2
 

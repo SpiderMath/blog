@@ -9,15 +9,15 @@ title = "TheDefectiveAgency"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/favicon.png"
+  # secondaryLogo = "img/background.jpg"
   description = "Ya'll don't gotta know"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Shankha Suvra Dam"
   # email = "youremail@example.com"
-  image = "img/author.jpg"
+  image = "img/author_actual.jpg"
   imageQuality = 96
   headline = "Exploring something new as usual :)"
   bio = "Upto something random yet again"
@@ -64,7 +64,7 @@ title = "TheDefectiveAgency"
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    { twitter = "https://twitter.com/a_bad_detective" },
+    { twitter = "https://twitter.com/shankhathefirst" },
     # { x-twitter = "https://twitter.com/a_bad_detective" },
     # { whatsapp = "https://wa.me/phone-number" },
     { youtube = "https://youtube.com/@thedefectivedetective" },

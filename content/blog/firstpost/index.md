@@ -3,7 +3,7 @@ title: "First Post: Introduction!"
 weight: 1
 draft: false
 description: "My first blog post using Blowfish"
-blog_tags: ["personal"]
+blog_tags: ["personal", "2024"]
 showAuthor: true
 date: 2024-12-18
 ---
@@ -13,7 +13,7 @@ Who are we even?
 {{< /lead >}}
 
 Hello there! This is my first blog post, as is evidenced by the title.  
-\
+
 So, if you're reading this, you are either a friend, a family member, or a curious stranger who stumbled upon this blog. Either way, thanks for coming! It means a lot to me. I'm excited to share my thoughts, experiences, and knowledge with you all. This blog will be a space for me to express myself, share my passions, and connect with like-minded individuals, and learn new positions from people who disagree. I hope you'll join me on this journey and share your thoughts and ideas as well.  
 
 ### Well, who am I?

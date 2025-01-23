@@ -18,7 +18,7 @@ I'm a teenage college student, with a passion for learning and building new thin
 
 | Institution | Graduation Date | Qualification | Result |
 | :-: | :-: | :-: | :-: |
-| Indian Statistical Institute, Bangalore Centre | May 2026 | Bachelor of Mathematics (Hons.) | 87% (ongoing) |
+| Indian Statistical Institute, Bangalore Centre | May 2026 (tentative) | Bachelor of Mathematics (Hons.) | 80.53% (1-3 semesters) |
 | Delhi Public School, Ruby Park | May 2023 | 12th CBSE | 95.6% |
 | Delhi Public School, Ruby Park | May 2021 | 10th CBSE | 90.8% |
 
@@ -35,6 +35,7 @@ I'm a teenage college student, with a passion for learning and building new thin
 
 | Exam Name | Date | Result |
 | :-: | :-: | :-: |
+| Simon Marais Mathematics Competition | 12 October 2024 | *Unranked* (Score: *13*) |
 | IISER Aptitude Test | 9 June 2024 | AIR 154 |
 | National Entrance cum Screening Test (NEST) | 24 June 2023 | AIR 135 |
 | IISER Aptitude Test | 17 June 2023 | AIR 45 |
@@ -47,11 +48,12 @@ I'm a teenage college student, with a passion for learning and building new thin
 
 | Role | Organisation | Start Date | End Date |
 | :-: | :-: | :-: | :-: |
-| Member | Cultural Committee | October 2024 | *ongoing* |
-| Technical Team Head | Limit | March 2024 | *ongoing* |
-| Technical Team | Math Club of ISI Bangalore | February 2024 | *ongoing* |
-| Regular contributor | TheAlgorithms | October 2021 | *ongoing* |
-| Volunteer | Mess Committee | October 2023 | April 2024 |
+| Member | [Cultural Committee of ISI Bangalore](https://isibangculturalcommittee.github.io/) | October 2024 | *ongoing* |
+| Technical Team Head | [Limit](https://limitisi.in/) | August 2024 | *ongoing* |
+| Technical Team | [Limit](https://limitisi.in/) | March 2024 | July 2024 |
+| Technical Team | [Math Club of ISI Bangalore](https://mathclubisib.github.io/) | February 2024 | *ongoing* |
+| Contributor | [TheAlgorithms](https://github.com/TheAlgorithms) | October 2021 | *ongoing* |
+| Volunteer | Mess Committee of ISI Bangalore | October 2023 | April 2024 |
 
 ## Certifications
 
