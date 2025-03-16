@@ -28,6 +28,7 @@ I'm a teenage college student, with a passion for learning and building new thin
 
 | Award | Date | Presenter | Description |
 | :-: | :-: | :-: | :- |
+| ISI Scholar Stipend | 2023 - *ongoing*| Indian Statistical Institute, Bangalore Centre | 5000 INR is awarded per month to students for maintaining a high standard in academics, along with a yearly contingency amount for purchasing books |
 | Scholar Badge | 2023 | Delhi Public School, Ruby Park | Scholar Badge is awarded as a recognition of academic excellence for students who score high marks (Awarded for 12th Board Examination Results) | 
 | Scholar Badge | 2021 | Delhi Public School, Ruby Park | Scholar Badge is awarded as a recognition of academic excellence for students who score high marks (Awarded for 10th Board Examination Results) |
 
@@ -35,6 +36,7 @@ I'm a teenage college student, with a passion for learning and building new thin
 
 | Exam Name | Date | Result |
 | :-: | :-: | :-: |
+| Madhava Mathematics Competition | 3 | *Institute Rank:* 17 (Score: *45*) |
 | Simon Marais Mathematics Competition | 12 October 2024 | *Unranked* (Score: *13*) |
 | IISER Aptitude Test | 9 June 2024 | AIR 154 |
 | National Entrance cum Screening Test (NEST) | 24 June 2023 | AIR 135 |
@@ -48,7 +50,8 @@ I'm a teenage college student, with a passion for learning and building new thin
 
 | Role | Organisation | Start Date | End Date |
 | :-: | :-: | :-: | :-: |
-| Member | [Cultural Committee of ISI Bangalore](https://isibangculturalcommittee.github.io/) | October 2024 | *ongoing* |
+| Secretary | [Cultural Committee of ISI Bangalore](https://isibangculturalcommittee.github.io/) | January 2024 | *ongoing* |
+| Member | [Cultural Committee of ISI Bangalore](https://isibangculturalcommittee.github.io/) | October 2024 | January 2025 |
 | Technical Team Head | [Limit](https://limitisi.in/) | August 2024 | *ongoing* |
 | Technical Team | [Limit](https://limitisi.in/) | March 2024 | July 2024 |
 | Technical Team | [Math Club of ISI Bangalore](https://mathclubisib.github.io/) | February 2024 | *ongoing* |
